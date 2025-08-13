@@ -1,7 +1,3 @@
-Here’s your **reduced and organized version** of the given content:
-
----
-
 ## **Problem Statement**
 
 Current agricultural practices are often inefficient, labour-intensive, and lack precision in resource management. Farmers face challenges in determining soil nutrient levels, selecting suitable crops, and performing essential farming tasks efficiently. This leads to lower yields, higher costs, and environmental concerns such as water wastage and soil degradation.
