@@ -57,5 +57,3 @@ This solution improves efficiency, reduces labour, saves water, and promotes sus
 10. **Integrate with mobile app** for remote monitoring and operation.
 
 ---
-
-If you want, I can also prepare a **simple block diagram** showing the AgroRover’s components and connections so it’s presentation-ready.
